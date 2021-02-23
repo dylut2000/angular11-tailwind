@@ -1,6 +1,29 @@
-# Angular11Tailwind
+# Angular 11 + Tailwind CSS
+
+This project setup is for everyone that want to work with [TailwindCSS](https://tailwindcss.com/) in their Angular application. (it comes with native support for TailwindCSS)
+
+## few ressources that might help
+
+- [Tailwind css official web](https://tailwindcss.com/)
+
+- [Tailwind documentation](https://tailwindcss.com/docs)
+
+- [Tailwind Block, (some good examples to use in your components design) ](https://tailblocks.cc/)
+
+
+by
+
+hardylutula@gmail.com, dylut2000 [twitter](https://twitter.com/dylut2000?lang=en)
+and
+[github](https://github.com/dylut2000)
+
+<hr>
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.1.
+
+
 
 ## Development server
 
